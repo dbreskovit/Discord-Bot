@@ -34,6 +34,31 @@
   <img src=".github/preview.png" width="100%">
 </h3>
 
+## 👾 Commands
+
+<table class="tg">
+                <thead>
+                    <tr>
+                        <th style="text-align: center !important">
+                            <b>Commands</b>
+                        </th>
+                        <th style="text-align: center !important">
+                            <b>Description</b>
+                        </th>
+                        <th style="text-align: center !important">
+                            <b>Usage</b>
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Avatar</td>
+                        <td>Show user avatar</td>
+                        <td>&Avatar</td>
+                    </tr>
+                </tbody>
+ </table>
+
 ## 🚀 Getting started
 
 Clone the project and access the folder.
