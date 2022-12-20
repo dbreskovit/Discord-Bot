@@ -14,6 +14,9 @@
   <a href="./LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/license%20-MIT-1C1E26?style=for-the-badge&labelColor=1C1E26&color=9644CD">
   </a>
+  
+ <!-- Forks -->
+ <img src="https://img.shields.io/github/forks/dbreskovit/Discord-Bot?&logo=Forks&style=for-the-badge&labelColor=1C1E26&color=9644CD">
 
  <!-- Stars -->
   <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/dbreskovit/The-Quiz?style=for-the-badge&labelColor=1C1E26&color=9644CD">
