@@ -14,11 +14,6 @@
   <a href="./LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/license%20-MIT-1C1E26?style=for-the-badge&labelColor=1C1E26&color=9644CD">
   </a>
-  
- <!-- Twitter -->
-  <a href="https://twitter.com/dbreskovit" target="_blank">
-    <img alt="Twitter: @dbreskovit" src="https://img.shields.io/twitter/follow/dbreskovit.svg?style=for-the-badge&labelColor=1C1E26&color=9644CD&logo=twitter" />
-  </a>
 
  <!-- Forks -->
  <img src="https://img.shields.io/github/forks/dbreskovit/Discord-Bot?&logo=Forks&style=for-the-badge&labelColor=1C1E26&color=9644CD">
