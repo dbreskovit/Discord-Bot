@@ -31,9 +31,9 @@
 - [Discord.js](https://www.npmjs.com/package/@n-h-n/discord.js-12.5.3)
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
-<br>
-
-<img src=".github/preview.png">
+<h3 align="center">
+  <img src=".github/preview.png" width="100%">
+</h3>
 
 # 🚀 Getting started
 
