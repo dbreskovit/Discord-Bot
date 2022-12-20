@@ -60,7 +60,7 @@ $ npm start
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/dbreskovit/dbreskovit" style="text-decoration: none;color: #9644CD;">
+      <a href="https://github.com/dbreskovit" style="text-decoration: none;color: #9644CD;">
             <img src="https://unavatar.now.sh/github/dbreskovit" width="50px" style="border-radius:50%"/>
             <br>
         <sub>
