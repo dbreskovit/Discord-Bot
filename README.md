@@ -26,7 +26,7 @@
 
 <br />
 
-# 🧪 Technologies
+## 🧪 Technologies
 
 - [Discord.js](https://www.npmjs.com/package/@n-h-n/discord.js-12.5.3)
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
@@ -35,7 +35,7 @@
   <img src=".github/preview.png">
 </h3>
 
-# 🚀 Getting started
+## 🚀 Getting started
 
 Clone the project and access the folder.
 
@@ -57,7 +57,7 @@ $ npm
 $ npm start
 ```
 
-# 🦄 Authors
+## 🦄 Authors
 
 <table>
   <tr>
