@@ -27,8 +27,8 @@
 
 ## 🧪 Technologies
 
-- [Discord.js](https://www.npmjs.com/package/@n-h-n/discord.js-12.5.3)
-- [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- <img src=".github/resources/icons/discord.svg" width="15"> | [Discord.js](https://www.npmjs.com/package/@n-h-n/discord.js-12.5.3)
+- <img src=".github/resources/icons/js.svg" width="15"> | [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 <h3 align="center">
   <img src=".github/preview.png" width="100%">
