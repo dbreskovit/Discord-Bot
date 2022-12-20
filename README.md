@@ -32,7 +32,7 @@
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 <h3 align="center">
-  <img src=".github/preview.png" width="100%">
+  <img src=".github/preview.png">
 </h3>
 
 # 🚀 Getting started
