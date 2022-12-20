@@ -61,19 +61,12 @@ $ npm start
   <tr>
     <td align="center">
       <a href="https://github.com/dbreskovit" style="text-decoration: none;color: #9644CD;">
-            <img src="https://unavatar.now.sh/github/dbreskovit" width="50px" style="border-radius:50%"/>
+              <img src="https://unavatar.now.sh/github/dbreskovit" width="50px"/>
             <br>
         <sub>
           <b>Diego</b>
         </sub>
       </a>
-      <!-- <a href="URL DO PERFIL">
-            <img src="https://unavatar.now.sh/github/AUTOR" width="50px" style="border-radius:50%"/>
-            <br>
-        <sub>
-          <b>AUTOR</b>
-        </sub>
-      </a> -->
     </td>
   </tr>
 </table>
