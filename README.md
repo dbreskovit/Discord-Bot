@@ -19,7 +19,7 @@
  <img src="https://img.shields.io/github/forks/dbreskovit/Discord-Bot?&logo=Forks&style=for-the-badge&labelColor=1C1E26&color=9644CD">
 
  <!-- Stars -->
-  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/dbreskovit/The-Quiz?style=for-the-badge&labelColor=1C1E26&color=9644CD">
+  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/dbreskovit/Discord-Bot?style=for-the-badge&labelColor=1C1E26&color=9644CD">
 
 </h3>
 
