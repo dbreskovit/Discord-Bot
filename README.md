@@ -87,7 +87,7 @@ $ npm start
   <tr>
     <td align="center">
       <a href="https://github.com/dbreskovit" style="text-decoration: none;color: #9644CD;">
-              <img src="https://unavatar.now.sh/github/dbreskovit" width="100px"/>
+              <img src="https://avatars.githubusercontent.com/dbreskovit" width="100px"/>
             <br>
         <sub>
           <b>Diego</b>
